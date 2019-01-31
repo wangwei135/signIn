@@ -1,0 +1,15 @@
+课堂点名系统
+
+"F:\Android\signIn\app\test.jks"
+发布版SHA1:B4:7B:49:2A:B9:3D:83:52:28:E2:12:20:BC:12:C2:D3:F0:85:06:4F
+密码:123456
+
+开发版SHA1:85:68:EE:EC:85:8F:27:5B:8B:44:08:CD:B3:AD:C4:44:16:34:12:E8
+密码:android
+
+包名:com.example.signIn
+
+安全码：
+B4:7B:49:2A:B9:3D:83:52:28:E2:12:20:BC:12:C2:D3:F0:85:06:4F;com.example.signIn
+85:68:EE:EC:85:8F:27:5B:8B:44:08:CD:B3:AD:C4:44:16:34:12:E8;com.example.signIn
+Android SDK安全码组成：SHA1+包名

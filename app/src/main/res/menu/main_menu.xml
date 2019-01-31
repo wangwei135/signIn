@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--定义子项目的3个item-->
+    <item
+        android:id="@+id/item_my"
+        android:title="我的"
+        android:icon="@mipmap/icon_home"
+
+        />
+
+    <item
+        android:id="@+id/item_gps"
+        android:title="定位"
+        android:icon="@mipmap/icon_home"
+        />
+    <item
+        android:id="@+id/item_signIn"
+        android:title="签到"
+        android:icon="@mipmap/icon_home"
+        />
+
+</menu>
