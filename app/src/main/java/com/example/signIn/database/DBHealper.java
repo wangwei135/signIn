@@ -9,7 +9,7 @@ public class DBHealper {
     private static String driver = "com.mysql.jdbc.Driver"; // 驱动程序名
     private static String url = "jdbc:mysql://47.102.36.39:3306/student"; // URL指向要访问的数据库名, 其中student是数据库名,需要相应的修改
     private static String user = "root"; // MySQL配置时的用户名
-    private static String password = "wangwei"; // MySQL登录密码
+    private static String password = "my password"; // MySQL登录密码
 
     static Connection connection;
 
